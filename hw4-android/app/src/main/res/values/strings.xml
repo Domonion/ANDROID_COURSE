@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">vkPhotos</string>
+    <string name="searchTextHint">Type here you query</string>
+    <string name="searchButtonText">Search</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="onRecyclerViewItemClicked">CLICKED</string>
+</resources>
