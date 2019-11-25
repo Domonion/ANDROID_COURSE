@@ -1,4 +1,4 @@
-#Android course
+# Android course
 University projects for Android course.
 
 Every project should be opened in ```Android studio```, plain ```gradle``` build not supported.
